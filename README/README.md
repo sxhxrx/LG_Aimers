@@ -1,7 +1,7 @@
 LG Aimers Hackathon
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=purple&height=150&section=footer&text=LG_Aimers_Hackathon&fontSize=40&fontColor=black" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=260&section=header&text=LG_Aimers_Hackathon&fontSize=40&fontColor=black" />
 </div>
 
 <div align=center>
@@ -18,5 +18,5 @@ LG Aimers Hackathon
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=200&section=footer" />
 </div>
