@@ -1,7 +1,7 @@
-LG Aimers Online Hackathon
+LG Aimers 6th Online Hackathon
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=260&section=header&text=LG_Aimers_Hackathon&fontSize=40&fontColor=black" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=260&section=header&text=LG_Aimers6_Hackathon&fontSize=40&fontColor=black" />
 </div>
 
 <div align=center>
